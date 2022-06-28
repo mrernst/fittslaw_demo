@@ -1,1 +1,1 @@
-# fittslaw_revisited
+# Fitts' Law Revisited
