@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # participant data
-./data/*
+data/*
