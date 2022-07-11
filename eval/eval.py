@@ -7,9 +7,8 @@
 
 # standard libraries
 # -----
-import torch
-import numpy
-
+import numpy as np
+import pandas as pd
 # utilities
 # -----
 #from util import *
