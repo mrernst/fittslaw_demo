@@ -1,1 +1,1 @@
-# Fitts' Law Revisited
+# Fitts' Law
